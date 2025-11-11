@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8dee00d9f4b99714889e172cac6227cc
+guid: 037e206e842061a4e97aede281eb5c9c
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable:
@@ -526,23 +526,23 @@ ModelImporter:
         length: 0
         modified: 0
     skeleton:
-    - name: Crouch Idle (1)(Clone)
+    - name: CrouchtoIdle(Clone)
       parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: Beta_Joints
-      parentName: Crouch Idle (1)(Clone)
+      parentName: CrouchtoIdle(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: Beta_Surface
-      parentName: Crouch Idle (1)(Clone)
+      parentName: CrouchtoIdle(Clone)
       position: {x: -0, y: 0, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: mixamorig:Hips
-      parentName: Crouch Idle (1)(Clone)
+      parentName: CrouchtoIdle(Clone)
       position: {x: -0.00000007264316, y: 1.0720446, z: 0.013117366}
       rotation: {x: 0.0000000029103837, y: 0.00000004656613, z: 0.000000005820766, w: 1}
       scale: {x: 1, y: 1, z: 1}
